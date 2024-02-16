@@ -1,4 +1,4 @@
-#Projeto: Victoria Lo Re Fotografia
+# Projeto: Victoria Lo Re Fotografia
 
 ## Descrição:
 O site contará com três páginas principais: "Sobre", onde os visitantes poderão encontrar informações sobre o fotógrafo e seu trabalho; "Trabalhos", onde serão exibidas as fotografias ou galerias de fotos; e "Contato", que permitirá aos visitantes entrar em contato com o fotógrafo.
